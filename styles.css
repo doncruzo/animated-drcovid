@@ -144,10 +144,13 @@ margin: 20px;
     font-family: "Montserrat-block";
     font-weight:bolder;
     font-size: 3rem;
+    margin-top: 5ex;
+}
 }
 #footer{
   text-align: center;
-margin-top: 3%;
+margin-top: 5%;
+  margin-bottom:5%;
 
 }
 .foot-icon{
