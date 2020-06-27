@@ -24,8 +24,9 @@
   padding:0 10 15rem;
 }
 .nav-link{
-  font-size:1.2rem;
+  font-size:2.0rem;
   font-family: "Montserrat-light";
+  margin-left: 0.5em;
 }
 
 h1{
@@ -144,12 +145,11 @@ margin: 20px;
     font-family: "Montserrat-block";
     font-weight:bolder;
     font-size: 3rem;
-    margin-top: 8ex;
-}
+    margin-top: 5ex;
 }
 #footer{
   text-align: center;
-margin-top: 5%;
+margin-top: 10%;
 background-color: #111d5e;
 
 }
