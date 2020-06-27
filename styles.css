@@ -150,6 +150,8 @@ margin: 20px;
 }
 #footer{
   text-align: center;
+  font-size: 2em;
+  font-weight: bolder;
 
 background-color: white;
 
@@ -157,8 +159,7 @@ background-color: white;
 .foot-icon{
 
   color: black;
-  margin: 20px 10px;
-}
+  margin: 20px 10px;}
 hr{
   border-top: 1px dashed black;
   border-left: 50ex;
