@@ -138,6 +138,7 @@ margin: 20px;
 #cta{
   text-align: center;
   color: white;
+  margin-bottom: 3em;
 
 }
 
@@ -149,8 +150,8 @@ margin: 20px;
 }
 #footer{
   text-align: center;
-margin-top: 10%;
-background-color: #111d5e;
+
+background-color: white;
 
 }
 .foot-icon{
