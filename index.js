@@ -2,9 +2,7 @@
 
     $("#features").hide();
     $("#pricing").hide();
-    $(" #testimonials").hide();
-    $(" #press").hide();
-    $("#fl").hide();
+   $("#fl").hide();
     $("#f2").hide();
     
 
@@ -21,7 +19,6 @@
     
   });
   $("#goat").on("click",function(){
-    $("#testimonials").toggle("slow","swing");
     $("#testimonials");
     $("#press").show();
     
